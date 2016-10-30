@@ -1,3 +1,4 @@
 target/
 testproject.iml
 .idea/
+*.DS_Store
