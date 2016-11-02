@@ -1,4 +1,4 @@
 target/
-testproject.iml
+*.iml
 .idea/
 *.DS_Store
